@@ -1,38 +1,16 @@
-# profile-hanaa
+# emart_app
 
-# 1- DeliveryApp
+A new Flutter project.
 
+## Getting Started
 
-https://github.com/hanaa-2000/profile-hanaa/assets/74063863/6ccc95c9-5144-4fe8-bec7-3ba1e8128aac
+This project is a starting point for a Flutter application.
 
+A few resources to get you started if this is your first Flutter project:
 
-# 2- CofeeApp
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-https://github.com/hanaa-2000/profile-hanaa/assets/74063863/3295bb65-9939-499b-afe8-575509bed697
-
-# 3- NoteApp
-
-
-https://github.com/hanaa-2000/profile-hanaa/assets/74063863/3556d1ef-9ec5-4702-b889-942f271378b6
-
-# 4- GroupChat
-
-https://github.com/hanaa-2000/profile-hanaa/assets/74063863/9376302c-3564-4615-8f62-0191cbcf1aed
-
-# 5- zoomClone
-
-https://github.com/hanaa-2000/profile-hanaa/assets/74063863/65b5527d-2fe7-4338-bdac-5cb1b0e598c0
-
-# 6- azkarApp
-
-
-https://github.com/hanaa-2000/profile-hanaa/assets/74063863/6cb6102b-f1c8-4228-ad28-94028a38ef3b
-
-
-
-# 7- tukeApp
-
-
-https://github.com/hanaa-2000/profile-hanaa/assets/74063863/36da85cf-506a-471a-808a-b2eaa5ca4f03
-
-
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

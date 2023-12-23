@@ -1,41 +1,37 @@
-import 'package:azkar/screens/home_screen.dart';
+import 'package:emart_app/views/splash_screen/splash_screen.dart';
 import 'package:flutter/material.dart';
-
-void main() {
+import 'package:get/get.dart';
+import 'consts/consts.dart';
+import 'package:firebase_core/firebase_core.dart';
+import 'firebase_options.dart';
+void main() async {
+      WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform,
+  );
   runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
 
-  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return GetMaterialApp(
       debugShowCheckedModeBanner: false,
+      title: appname,
       theme: ThemeData(
-        brightness:Brightness.light ,
-        textTheme: const TextTheme(
-          headline1: TextStyle(
-              fontSize: 25,
-              fontWeight: FontWeight.w400,
-              fontFamily: 'Tajawal',
-              color: Colors.white
+        scaffoldBackgroundColor: Colors.transparent,
+        appBarTheme: const AppBarTheme(
+          iconTheme: IconThemeData(
+            color: darkFontGrey,
           ),
+          backgroundColor: Colors.transparent,
         ),
-          backgroundColor: Colors.white,
-          appBarTheme:const AppBarTheme(
-            color: Colors.green,
-         titleTextStyle: TextStyle(
-             fontSize: 25,
-             fontWeight: FontWeight.w500,
-             fontFamily: 'Tajawal'
-         ),
-            centerTitle: true,
-          ),
-        ),
-      home:const HomeScreen(),
+        fontFamily: regular,
+      ),
+      home: const SplashScreen(),
+
     );
   }
 }
-
