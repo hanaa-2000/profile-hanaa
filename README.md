@@ -50,11 +50,14 @@ https://github.com/hanaa-2000/profile-hanaa/assets/74063863/c5636b06-ee14-4c7a-b
 
 8# Coffee_app
 
-https://github.com/hanaa-2000/profile-hanaa/assets/74063863/099e6e1a-88f6-462a-b6fd-db31738853d1
+
+https://github.com/hanaa-2000/profile-hanaa/assets/74063863/73988d2e-a017-46bd-91b1-d94b33b5320c
+
 
 9# Trips_app
 
-https://github.com/hanaa-2000/profile-hanaa/assets/74063863/dbb63524-122c-4930-8846-7465d4761c65
+https://github.com/hanaa-2000/profile-hanaa/assets/74063863/927d13e7-f733-40b8-ae98-a5ad653b75ab
+
 
 10# Zoom Clone
 
@@ -62,7 +65,9 @@ https://github.com/hanaa-2000/profile-hanaa/assets/74063863/9abf5a99-8168-4e94-8
 
 11# Azkar 
 
-https://github.com/hanaa-2000/profile-hanaa/assets/74063863/65975ed1-bb1b-4ee0-9d69-cd0f660e882e
+
+https://github.com/hanaa-2000/profile-hanaa/assets/74063863/b01b4883-7979-406d-bc44-4cd61e2335eb
+
 
 12# Toke_app
 
